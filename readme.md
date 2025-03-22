@@ -7,19 +7,9 @@ src/
 ├── config/
 │   └── database.ts
 ├── controllers/
-│   ├── alunoController.ts
 │   ├── atendimentoController.ts
-│   ├── courseController.ts
-│   ├── funcionarioController.ts
-│   ├── institutionController.ts
-│   └── statsController.ts
 ├── models/
-│   ├── Aluno.ts
 │   ├── Atendimento.ts
-│   ├── Autenticacao.ts
-│   ├── AuxiliarAluno.ts
-│   ├── AuxiliarDeAcompanhamento.ts
-│   └── Funcionario.ts
 └── tests/
     └── atendimentoController.test.ts
 ```
@@ -38,7 +28,7 @@ Certifique-se de que você tem instalado:
 ### Instalação
 1. Clone este repositório:
    ```sh
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/gabrielsnascimento/ponderada_s6
    ```
 2. Navegue até a pasta do projeto:
    ```sh
